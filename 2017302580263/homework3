@@ -1,4 +1,6 @@
 ## telnet whu.edu.cn 25
+```
+telnet whu.edu.cn 25
 220 whu.edu.cn Anti-spam GT for Coremail System (whu[20171226]
 EHLO login
 250-mail
@@ -23,7 +25,7 @@ YES
 .  
 250 Mail OK queued as AgBjCgDn9CFzSnBeze9HAA--.39561S2 
 QUIT   
-
+```
 
 ![t1](t1.png)
 
