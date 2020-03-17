@@ -65,8 +65,8 @@ Host:maths.whu.edu.cn
 ##### ![image](images/P7.png)
 
 解：得到IP地址的时间：T1 = RTT1 + RTT2 + … + RTTn ；
-        响应时间：T2 = 2 * RTT0 ；
-        总时间：T = T1 + T2 = 2RTT0 + RTT1 + … + RTTn ；
+    响应时间：T2 = 2 * RTT0 ；
+    总时间：T = T1 + T2 = 2RTT0 + RTT1 + … + RTTn ；
 
 ------
 
