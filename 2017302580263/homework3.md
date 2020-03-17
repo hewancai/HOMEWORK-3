@@ -15,7 +15,7 @@ EHLO login
 250 8BITMIME 
 auth login
 334 dXNlcm5hbWU6
-MjAxNzMwMjU4MDI2M0B3aHUuZWR1LmNu
+MjAxNzMwMjU4MDI2M0B3aHUuZWR1LmNu(2017302580263@whu.edu.cn 经过64base加密)
 334 UGFzc3dvcmQ6
 ******password  经过64base加密
 MAIL FROM:<2017302580263@whu.edu.cn>250 Mail OK
