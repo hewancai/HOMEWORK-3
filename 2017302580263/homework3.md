@@ -1,13 +1,12 @@
 
-## telnet whu.edu.cn 25
-1. 打开cmd，输入telnet whu.edu.cn 25
-2. 输入ehol Sue
-3. 输入auth login进行登录
-4.输入经过64base加密的账号和密码，其中账号为2017302580263@whu.edu.cn
-5.分别设置发送者接收者，其中接收者为我的qq邮箱794525298@qq.com
+## telnet whu.edu.cn 25  
+1.打开cmd，输入telnet whu.edu.cn 25  
+2.输入ehol Sue  
+3.输入auth login进行登录  
+4.输入经过64base加密的账号和密码，其中账号为2017302580263@whu.edu.cn  
+5.分别设置发送者接收者，其中接收者为我的qq邮箱794525298@qq.com  
 6.输入内容
 在cmd中显示以及输入的内容如下，最终发送邮箱结果如图。
-
 ```
 telnet whu.edu.cn 25
 220 whu.edu.cn Anti-spam GT for Coremail System (whu[20171226]
