@@ -15,8 +15,9 @@ EHLO login
 250 8BITMIME 
 auth login
 334 dXNlcm5hbWU6
-MjAxNzMwMjU4MDI2M0B3aHUuZWR1LmNu334 UGFzc3dvcmQ6
-bTEzODA3MjQ1NjQz235 Authentication successful
+MjAxNzMwMjU4MDI2M0B3aHUuZWR1LmNu
+334 UGFzc3dvcmQ6
+******password  经过64base加密
 MAIL FROM:<2017302580263@whu.edu.cn>250 Mail OK
 RCPT TO:<794525298@qq.com>250 Mail OK   
 DATA502 Error: command not implemented 
