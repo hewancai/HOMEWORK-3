@@ -28,3 +28,13 @@ QUIT
 ```
 
 ![t1](t1.png)
+
+## telnet maths.whu.edu.cn 80
+
+```
+telnet maths.whu.edu.cn 80
+GET /kxyj/xsjz/31.htm HTTP/2.0
+Host: maths.whu.edu.cn
+```
+
+![t2](t2.png)
