@@ -1,5 +1,6 @@
 ## telnet whu.edu.cn 25
 ```
+
 telnet whu.edu.cn 25
 220 whu.edu.cn Anti-spam GT for Coremail System (whu[20171226]
 EHLO login
@@ -30,20 +31,17 @@ QUIT
 ![t1](t1.png)
 
 ## telnet maths.whu.edu.cn 80
-
 ```
+
 telnet maths.whu.edu.cn 80
 GET /kxyj/xsjz/31.htm HTTP/2.0
 Host: maths.whu.edu.cn
 ```
 
 
-
-## 第二章习题
-
-
-
+## 第二章习题p1
 ```
+
 a.
 错 客户将发送4个请求
 b.
@@ -56,9 +54,9 @@ e.
 错
 ```
 
-
-
+## 第二章习题p2
 ```
+
 a.
 发送一个对象的平均时间 = 850000bit/15Mbps = 0.054s
 
@@ -68,5 +66,4 @@ a.
 
 b.
 0.6*源服务器产生的时延 + 0.4*cache满足的服务产生的时延 ≈ 2.04s
- 
 ```
