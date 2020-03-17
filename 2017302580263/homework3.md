@@ -17,9 +17,7 @@ auth login
 334 dXNlcm5hbWU6
 MjAxNzMwMjU4MDI2M0B3aHUuZWR1LmNu334 UGFzc3dvcmQ6
 bTEzODA3MjQ1NjQz235 Authentication successful
-MAIL FROM:<2017302580263@whu.edu.cn>502 Error: command not implemented 
 MAIL FROM:<2017302580263@whu.edu.cn>250 Mail OK
-RCPT TO:<794525298@qq.com>502 Error: command not implemented 
 RCPT TO:<794525298@qq.com>250 Mail OK   
 DATA502 Error: command not implemented 
 DATA354 End data with <CR><LF>.<CR><LF>  
