@@ -21,9 +21,9 @@ Host: maths.whu.edu.cn
 ![image](https://github.com/20192021855-DCAN/HOMEWORK-3/blob/master/2017301110061/telnet网页.png)
 ![image](https://github.com/20192021855-DCAN/HOMEWORK-3/blob/master/2017301110061/telnet网页2.png)
 
-习题
+习题  
 p1  
-FTFFF 
+FTFFF  
 P5  
 a. 状态代码200和短语ok表示服务器能够找到文档成功。答复于2008年3月7日星期二提供格林威治标准时间12:39:45.  
 b. 上一次修改index.html文档是在2005年12月10日星期六18:27:46 格林尼治时间.  
