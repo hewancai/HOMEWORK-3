@@ -10,18 +10,15 @@
 9. QUIT
 ![image](https://github.com/20192021855-DCAN/HOMEWORK-3/blob/master/2017301110061/telnet邮箱.png)
 ![image](https://github.com/20192021855-DCAN/HOMEWORK-3/blob/master/2017301110061/telnet邮箱2.png)
-
-
 接下来是对网页的telnet
 1.输入 telnet maths.whu.edu.cn 80
 2.ctrl+]
 3.回车
 4.GET 你想访问的页面 HTTP/2.0
-  Host: maths.whu.edu.cn
+Host: maths.whu.edu.cn
 5.获得页面
 ![image](https://github.com/20192021855-DCAN/HOMEWORK-3/blob/master/2017301110061/telnet网页.png)
 ![image](https://github.com/20192021855-DCAN/HOMEWORK-3/blob/master/2017301110061/telnet网页2.png)
-
 习题
 P1 
 FTFFF
