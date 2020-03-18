@@ -8,5 +8,5 @@
 7. 以DATA开始输入数据 DATA
 8. 以. 结尾 homework3 test .
 9. QUIT
-![image](https://github.com/20192021855-DCAN/HOMEWORK-3/blob/master/2017301110061/telnet邮件.png)
-![image](https://github.com/20192021855-DCAN/HOMEWORK-3/blob/master/2017301110061/telnet邮件2.png)
+![image](https://github.com/20192021855-DCAN/HOMEWORK-3/blob/master/2017301110061/telnet邮箱.png)
+![image](https://github.com/20192021855-DCAN/HOMEWORK-3/blob/master/2017301110061/telnet邮箱2.png)
